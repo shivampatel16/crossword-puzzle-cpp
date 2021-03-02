@@ -1,2 +1,2 @@
-# word-search-puzzle-cpp
-A word search puzzle model developed using the multi-linked lists data structure, implemented using C++ in late 2017.
+- A word search puzzle model developed using multi-linked lists data structure, implemented using C++. 
+- Implementation time: Late 2017
